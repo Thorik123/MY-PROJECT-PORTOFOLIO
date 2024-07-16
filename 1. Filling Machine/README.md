@@ -63,3 +63,11 @@ Selain membuat wiring diagram, kami juga membuat Printed Circuit Board (PCB). Be
 </p>
 
 ---
+
+#### Catatan !
+
+Project ini bersifat private, jika anda membutuhkan file lain seperti source-code program dan file pendukung lainnya silahkan hubungi saya melalui tautan sosial media pada bio profile ini.
+
+[Traktir saya kopi](https://www.buymeacoffee.com/thoriktk)
+
+---
