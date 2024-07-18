@@ -12,6 +12,8 @@ Berikut adalah portofolio project mikrokontroller dan Internet of Things (IoT) y
 
 4. [Keamanan Rumah](https://github.com/Thorik123/MY-PROJECT-PORTOFOLIO/tree/main/4.%20Keamanan%20Rumah) - Sistem Keamanan Rumah berbasis IoT.
 
+5. [Keamanan Kotak Amal](https://github.com/Thorik123/MY-PROJECT-PORTOFOLIO/tree/main/5.%20Keamanan%20Kotak%20Amal) - Sistem keamanan kotak amal berbasis IoT.
+
 ---
 
 Repository akan terus diupdate secara berkala sesuai project-project yang sudah saya kerjakan.
