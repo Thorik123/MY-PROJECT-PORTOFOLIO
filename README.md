@@ -10,6 +10,8 @@ Berikut adalah portofolio project mikrokontroller dan Internet of Things (IoT) y
 
 3. [Smart Kitchen](https://github.com/Thorik123/MY-PROJECT-PORTOFOLIO/tree/main/3.%20Smart%20Kitchen) - Sistem keamanan dapur berbasis IoT
 
+4. [Keamanan Rumah](https://github.com/Thorik123/MY-PROJECT-PORTOFOLIO/tree/main/4.%20Keamanan%20Rumah) - Sistem Keamanan Rumah berbasis IoT.
+
 ---
 
 Repository akan terus diupdate secara berkala sesuai project-project yang sudah saya kerjakan.
