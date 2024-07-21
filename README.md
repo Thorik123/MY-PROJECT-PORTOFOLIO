@@ -16,6 +16,8 @@ Berikut adalah portofolio project mikrokontroller dan Internet of Things (IoT) y
 
 6. [Monitoring Suhu pH Turbidity](https://github.com/Thorik123/MY-PROJECT-PORTOFOLIO/tree/main/6.%20Monitoring%20Suhu%20Ph%20Turbidity) - Sistem monitoring Suhu pH dan Turbidity berbasis IoT dan Blynk
 
+7. [Monitoring Ketinggian Air Sungai](https://github.com/Thorik123/MY-PROJECT-PORTOFOLIO/tree/main/7.%20Monitoring%20Ketinggian%20Air%20Sungai) - Sistem monitoring ketinggian air sungai berbasis IoT dan Blynk
+
 ---
 
 Repository akan terus diupdate secara berkala sesuai project-project yang sudah saya kerjakan.
