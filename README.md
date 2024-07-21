@@ -4,15 +4,17 @@ Berikut adalah portofolio project mikrokontroller dan Internet of Things (IoT) y
 
 ### - Daftar Isi
 
-1. [Filling Machine](https://github.com/Thorik123/MY-PROJECT-PORTOFOLIO/tree/main/1.%20Filling%20Machine) - Pengisi botol otomatis berbasi IoT
+1. [Filling Machine](https://github.com/Thorik123/MY-PROJECT-PORTOFOLIO/tree/main/1.%20Filling%20Machine) - Pengisi botol otomatis berbasi IoT dan Telegram
 
-2. [Smart Palang Parkir](https://github.com/Thorik123/MY-PROJECT-PORTOFOLIO/tree/main/2.%20Smart%20Palang%20Parkir) - Sistem monitoring lahan parkir berbasis IoT
+2. [Smart Palang Parkir](https://github.com/Thorik123/MY-PROJECT-PORTOFOLIO/tree/main/2.%20Smart%20Palang%20Parkir) - Sistem monitoring lahan parkir berbasis IoT dan Telegram
 
-3. [Smart Kitchen](https://github.com/Thorik123/MY-PROJECT-PORTOFOLIO/tree/main/3.%20Smart%20Kitchen) - Sistem keamanan dapur berbasis IoT
+3. [Smart Kitchen](https://github.com/Thorik123/MY-PROJECT-PORTOFOLIO/tree/main/3.%20Smart%20Kitchen) - Sistem keamanan dapur berbasis IoT dan Telegram dan Telegram
 
-4. [Keamanan Rumah](https://github.com/Thorik123/MY-PROJECT-PORTOFOLIO/tree/main/4.%20Keamanan%20Rumah) - Sistem Keamanan Rumah berbasis IoT.
+4. [Keamanan Rumah](https://github.com/Thorik123/MY-PROJECT-PORTOFOLIO/tree/main/4.%20Keamanan%20Rumah) - Sistem Keamanan Rumah berbasis IoT dan Telegram
 
-5. [Keamanan Kotak Amal](https://github.com/Thorik123/MY-PROJECT-PORTOFOLIO/tree/main/5.%20Keamanan%20Kotak%20Amal) - Sistem keamanan kotak amal berbasis IoT.
+5. [Keamanan Kotak Amal](https://github.com/Thorik123/MY-PROJECT-PORTOFOLIO/tree/main/5.%20Keamanan%20Kotak%20Amal) - Sistem keamanan kotak amal berbasis IoT dan Telegram
+
+6. [Monitoring Suhu pH Turbidity](https://github.com/Thorik123/MY-PROJECT-PORTOFOLIO/tree/main/6.%20Monitoring%20Suhu%20Ph%20Turbidity) - Sistem monitoring Suhu pH dan Turbidity berbasis IoT dan Blynk
 
 ---
 
